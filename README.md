@@ -49,8 +49,17 @@ scoop bucket add shihao https://github.com/ShihaoShenDev/ScoopBucket
 > The recommended bucket name is `shihao` (just like the script above).
 > If you like, you can use other bucket names.
 
-## Included Packages
-TODO...
+## Featured Packages
+
+### VS Code Exploration
+
+*The hidden version of VS Code that is usually used by Microsoft staff.*
+
+```pwsh
+scoop install vscode-exploration
+# Or use this to force use this bucket:
+scoop install shihao/vscode-exploration
+```
 
 ## How do I contribute new manifests?
 
